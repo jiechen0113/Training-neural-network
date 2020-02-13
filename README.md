@@ -1,3 +1,3 @@
 # Training-neural-network
-MLPregressor
+file standardize_old.py (MLPregressor)
 Train a neural network model.
